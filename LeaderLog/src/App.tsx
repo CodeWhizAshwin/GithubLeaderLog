@@ -90,7 +90,7 @@ function AppWrapper() {
               <ul className="navbar-nav mb-2 mb-lg-0">
                 <li className="nav-item"><Link className="nav-link" to="/">Home</Link></li>
                 <li className="nav-item"><Link className="nav-link" to="/about">About</Link></li>
-                <li className="nav-item"><Link className="nav-link" to="/contact">Contact</Link></li>
+                <li className="nav-item"><Link className="nav-link" to="/contact">Contact Us</Link></li>
               </ul>
             </div>
             <div className="d-flex">
